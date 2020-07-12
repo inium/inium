@@ -1,13 +1,19 @@
 ### In, Lee -- @inium
 
-Hi 👋, Welcome to my Github place. I am a frontend / backend web application developer.
+Hi 👋, Welcome to my Github place. I am In Lee - a frontend / backend web application developer who makes code with coffee ☕.
 
-### 🤹🏿 Skills
+### 🤹🏻 Skills
 
 - Web
   - Backend: PHP (Laravel, Slim, Codeigniter), Node.js, Docker
   - Frontend: Vue, Javascript, Sass, Pug, Webpack
-- Real-time Rendering (OpenGL, DirectX, Shader), GPGPU (CUDA) Programming, Image processing
+- Real-time Rendering (OpenGL, DirectX, Shader), Data processing using GPGPU (CUDA), Image processing
+
+### 👀 Interest
+
+- Typescript, Vue (Nuxt)
+- Modern PHP, Node, Docker
+- Writing and sharing my experiences & works
 
 ### 👨‍💻 Work Experiences
 

@@ -15,13 +15,6 @@ Hi 👋, Welcome to my Github place. I am In Lee - a frontend / backend web appl
 - Modern PHP, Node, Docker
 - Writing and sharing my experiences & works
 
-### 👨‍💻 Work Experiences
-
-- 2013-2020
-  - 2015-2020 Flexion, Inc., Take over Nextier, Web application developer.
-  - 2013-2015 Nextier, Interactive contents application developer.
-- 2012-2013 ETRI(Electronics and Telecommunications Research Institute), Creative Contents Lab., Researcher.
-
 ### 📫 How to reach me
 
 - blog: https://inium.github.io

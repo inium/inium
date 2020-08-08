@@ -1,6 +1,6 @@
 ### In, Lee -- @inium
 
-Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend / backend) developer who make codes and results with coffee ☕.
+Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend / backend) developer who writes code and results with coffee ☕.
 
 ### 📫 How to reach me
 

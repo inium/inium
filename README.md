@@ -4,7 +4,7 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
 
 ### 📫 How to reach me
 
-- blog: https://blog.inlee.me
+- blog: https://inium.github.io
 - email: jamesinlee@gmail.com
 
 

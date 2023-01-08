@@ -2,7 +2,7 @@
 
 Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend / backend) developer who writes code with coffee ☕.
 
-안녕하세요 저는 이인이라고 하며 커피를 마셔서 코드를 만드는 웹 어플리케이션 개발자입니다.
+안녕하세요 저는 이인입니다. 커피를 마셔서 코드를 만드는 웹 어플리케이션 개발자입니다.
 
 ### Techincal Stacks
 

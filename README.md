@@ -21,15 +21,8 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
   - On demand image resizing (Lambda + Cloudfront + S3)
   - Media convert (mp4 to HLS, S3 + Lambda + Cloudfront + MediaConvert)
   - Container (fargate), 
-  - EC2
-  - S3
-  - Cloudfront
-  - Route53
-  - Cloudformation
-  - Amplify
-  - Serverless
-  - API Gateway
-  - Lambda Function
+  - Serverless (API Gateway + Lambda - Express.js)
+  - EC2, S3, Cloudfront, Route53, Cloudformation, Amplify
 
 ### 📫 How to reach me
 

@@ -7,9 +7,9 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
 ### Techincal Stacks
 
 - Backend
-  - Laravel (+ layered architecture - Repository, Service, DTO)
-  - Node (Express.js, Nest.js)
-  - Java (Struts, Spring Boot)
+  - PHP: Laravel (+ layered architecture - Repository, Service, DTO) / Slim / Vanilla PHP
+  - Node: Express.js / Nest.js
+  - Java: Struts / Spring Boot
 - Frontend
   - Tailwind, Bootstrap, 
   - Vue (Nuxt, Inertia.js (laravel))

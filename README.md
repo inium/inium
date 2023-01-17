@@ -7,7 +7,7 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
 ### Techincal Stacks
 
 - Backend
-  - Laravel (with layered architecture - Repository, Service, DTO)
+  - Laravel (+ layered architecture - Repository, Service, DTO)
   - Node (Express.js, Nest.js)
   - Java (Struts, Spring Boot)
 - Frontend
@@ -20,7 +20,7 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
 - AWS
   - On demand image resizing (Lambda + Cloudfront + S3)
   - Media convert (mp4 to HLS, S3 + Lambda + Cloudfront + MediaConvert)
-  - Container (fargate), 
+  - Container (fargate)
   - Serverless (API Gateway + Lambda - Express.js)
   - EC2, S3, Cloudfront, Route53, Cloudformation, Amplify
 

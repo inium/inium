@@ -7,13 +7,12 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
 ### Techincal Stacks
 
 - Backend
-  - PHP: Laravel (+ layered architecture - Repository, Service, DTO) / Slim / Vanilla PHP
-  - Node: Express.js / Nest.js
-  - Java: Struts / Spring Boot
+  - Laravel / Slim
+  - Express.js / Nest.js
+  - Struts / Spring Boot
 - Frontend
-  - Tailwind, Bootstrap, 
-  - Vue (Nuxt, Inertia.js (laravel))
-  - JQuery, Vanilla js
+  - Vue, Nuxt, Inertia.js (laravel), JQuery, Vanilla JS
+  - Tailwind, Bootstrap
 - DevOps
   - Docker, Docker Compose
   - Github Action, Jenkins
@@ -22,7 +21,7 @@ Hi 👋, Welcome to my Github place. I am In Lee - a web application (frontend /
   - Media convert (mp4 to HLS, S3 + Lambda + Cloudfront + MediaConvert)
   - Container (fargate)
   - Serverless (API Gateway + Lambda - Express.js)
-  - EC2, S3, Cloudfront, Route53, Cloudformation, Amplify
+  - Etc (EC2, S3, Cloudfront, Route53, Cloudformation, Amplify)
 
 ### 📫 How to reach me
 
